@@ -1,0 +1,15 @@
+C:\Users\Denis\Desktop\Lessons1\Repo\Examples\Ex004\bin\Debug\net6.0\Ex004.exe
+C:\Users\Denis\Desktop\Lessons1\Repo\Examples\Ex004\bin\Debug\net6.0\Ex004.deps.json
+C:\Users\Denis\Desktop\Lessons1\Repo\Examples\Ex004\bin\Debug\net6.0\Ex004.runtimeconfig.json
+C:\Users\Denis\Desktop\Lessons1\Repo\Examples\Ex004\bin\Debug\net6.0\Ex004.dll
+C:\Users\Denis\Desktop\Lessons1\Repo\Examples\Ex004\bin\Debug\net6.0\Ex004.pdb
+C:\Users\Denis\Desktop\Lessons1\Repo\Examples\Ex004\obj\Debug\net6.0\Ex004.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Lessons1\Repo\Examples\Ex004\obj\Debug\net6.0\Ex004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Lessons1\Repo\Examples\Ex004\obj\Debug\net6.0\Ex004.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Lessons1\Repo\Examples\Ex004\obj\Debug\net6.0\Ex004.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Lessons1\Repo\Examples\Ex004\obj\Debug\net6.0\Ex004.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Lessons1\Repo\Examples\Ex004\obj\Debug\net6.0\Ex004.dll
+C:\Users\Denis\Desktop\Lessons1\Repo\Examples\Ex004\obj\Debug\net6.0\refint\Ex004.dll
+C:\Users\Denis\Desktop\Lessons1\Repo\Examples\Ex004\obj\Debug\net6.0\Ex004.pdb
+C:\Users\Denis\Desktop\Lessons1\Repo\Examples\Ex004\obj\Debug\net6.0\Ex004.genruntimeconfig.cache
+C:\Users\Denis\Desktop\Lessons1\Repo\Examples\Ex004\obj\Debug\net6.0\ref\Ex004.dll
